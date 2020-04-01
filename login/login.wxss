@@ -1,0 +1,21 @@
+/* pages/login/login.wxss */
+.login_btn{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+input{
+  width: 50%;
+  height: 80rpx;
+  margin: 0 auto;
+  background: white;
+  border-radius: 8rpx;
+  margin-top: 60rpx;
+}
+button{
+  width: 80%;
+  height: 80rpx;
+  margin-top: 60rpx;
+}

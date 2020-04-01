@@ -1,0 +1,4 @@
+<view class="login_btn">
+<input value="{{phone}}" placeholder="请输入手机号" bindinput="getphone"></input>
+  <button type="primary" open-type="getUserInfo" bindgetuserinfo="userinfo">微信登录</button>
+</view>  
